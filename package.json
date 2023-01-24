@@ -12,6 +12,7 @@
   "dependencies": {
     "directus": "^9.22.4",
     "directus-extension-computed-interface": "^1.4.1",
+    "directus-extension-wpslug-interface": "^1.1.0",
     "pg": "^8.8.0"
   }
 }
